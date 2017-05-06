@@ -1,5 +1,5 @@
 # projekti-i-pare
+
 Hello
 My first test project
-
-po modifikoj ndryshimin
+Ndryshimi nr. 1 ne branch master
