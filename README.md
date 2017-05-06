@@ -2,4 +2,5 @@
 
 Hello
 My first test project
-Ndryshimi nr. 1 ne branch master
+Ndryshimi nr.1 ne branch master
+Nrdyshim nr.1 ne branchin nr_2
