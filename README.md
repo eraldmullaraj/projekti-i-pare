@@ -2,4 +2,4 @@
 Hello
 My first test project
 
-po bej ca ndryshime
+po modifikoj ndryshimin
